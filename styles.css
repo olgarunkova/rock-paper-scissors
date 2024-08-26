@@ -48,6 +48,14 @@ h1 {
 }
 
 .score {
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-align: left;
+}
+
+.redText {
+    color: rgb(192, 37, 37);
+}
+
+.greenText {
+    color: rgb(12, 86, 12);
 }
